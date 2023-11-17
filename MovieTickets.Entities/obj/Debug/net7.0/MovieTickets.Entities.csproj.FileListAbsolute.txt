@@ -9,3 +9,14 @@ E:\projectsVs\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.dll
 E:\projectsVs\MovieTickets.Entities\obj\Debug\net7.0\refint\MovieTickets.Entities.dll
 E:\projectsVs\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.pdb
 E:\projectsVs\MovieTickets.Entities\obj\Debug\net7.0\ref\MovieTickets.Entities.dll
+E:\projectsVs\Course-project\MovieTickets.Entities\bin\Debug\net7.0\MovieTickets.Entities.deps.json
+E:\projectsVs\Course-project\MovieTickets.Entities\bin\Debug\net7.0\MovieTickets.Entities.dll
+E:\projectsVs\Course-project\MovieTickets.Entities\bin\Debug\net7.0\MovieTickets.Entities.pdb
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.AssemblyInfoInputs.cache
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.AssemblyInfo.cs
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.csproj.CoreCompileInputs.cache
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.dll
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\refint\MovieTickets.Entities.dll
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.pdb
+E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\ref\MovieTickets.Entities.dll

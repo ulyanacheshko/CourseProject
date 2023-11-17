@@ -28,5 +28,35 @@ namespace MovieTickets.Controllers
             return movie.Id;
 
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Movie>> GetById(int id)
+        {
+            var movie = await _movieTicketsDbContext.Movies.FindAsync(id);
+            return Ok(movie);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateArt(int id, [FromBody] Movie movie)
+        {
+            var existingMovie = await _movieTicketsDbContext.Movies.FindAsync(id);
+            existingMovie.Id = movie.Id;
+            existingMovie.MovieTitle = movie.MovieTitle;
+            existingMovie.MovieDuration = movie.MovieDuration;
+            _movieTicketsDbContext.Movies.Update(existingMovie);
+            await _movieTicketsDbContext.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteProductById(int id)
+        {
+            var movie = await _movieTicketsDbContext.Movies.FindAsync(id);
+            _movieTicketsDbContext.Movies.Remove(movie);
+            await _movieTicketsDbContext.SaveChangesAsync();
+            return Ok();
+        }
+
     }
 }
