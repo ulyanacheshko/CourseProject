@@ -1,0 +1,17 @@
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.DataAccess.deps.json
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.DataAccess.runtimeconfig.json
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.DataAccess.dll
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.DataAccess.pdb
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.Entities.dll
+E:\projectsVs\MovieTickets.DataAccess\bin\Debug\net7.0\MovieTickets.Entities.pdb
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.csproj.AssemblyReference.cache
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.AssemblyInfoInputs.cache
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.AssemblyInfo.cs
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.csproj.CoreCompileInputs.cache
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.csproj.CopyComplete
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.dll
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\refint\MovieTickets.DataAccess.dll
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.pdb
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\MovieTickets.DataAccess.genruntimeconfig.cache
+E:\projectsVs\MovieTickets.DataAccess\obj\Debug\net7.0\ref\MovieTickets.DataAccess.dll
