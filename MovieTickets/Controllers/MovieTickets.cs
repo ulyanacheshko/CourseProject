@@ -25,7 +25,7 @@ namespace MovieTickets.Controllers
         {
             await _movieTicketsDbContext.Movies.AddAsync(movie);
             await _movieTicketsDbContext.SaveChangesAsync();
-            return movie.Id;
+            return movie.MovieId;
 
         }
 
@@ -40,7 +40,7 @@ namespace MovieTickets.Controllers
         public async Task<IActionResult> UpdateArt(int id, [FromBody] Movie movie)
         {
             var existingMovie = await _movieTicketsDbContext.Movies.FindAsync(id);
-            existingMovie.Id = movie.Id;
+            existingMovie.MovieId = movie.MovieId;
             existingMovie.MovieTitle = movie.MovieTitle;
             existingMovie.MovieDuration = movie.MovieDuration;
             _movieTicketsDbContext.Movies.Update(existingMovie);

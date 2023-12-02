@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a3BRvCfec1ZM3IwG7DWxO19k5ZBHfuRXea+Q/ugAhsne1ZwN4XLtLnoZ3/ZmBZ3GwqBoVED+BuxJPN1nuu7qMA==",
+  "dgSpecHash": "whOciIlnIyCidGmh97RHYZVuHHnspTEk8dttP12FRVhym0EvXh4ghiiGumOtt2+JVnV8p6bGOq+mGyalcWzSSw==",
   "success": true,
-  "projectFilePath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+  "projectFilePath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {}
+    "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {}
   },
   "projects": {
-    "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+    "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
         "projectName": "MovieTickets.Entities",
-        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
-        "outputPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\obj\\",
+        "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

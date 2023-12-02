@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gZruI3yg4Wj1PY7qwIzTuYcOYmN++8qG8EB9Qq+7KXYNY0MXBcm0/zP1UPWNkZ7xbohHb/h6F4WqANGaOt0Sg==",
+  "dgSpecHash": "GW7ueAFcNXvHJBm8Fh78BeT9r9G+9A+epPn9lMCVxhE4ZsxWdcVGQ+H0VlTk8re77cOdVkmxCKUrAb2I8E316A==",
   "success": true,
-  "projectFilePath": "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj",
+  "projectFilePath": "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ulia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ulia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -3348,11 +3348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj",
+      "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj",
       "projectName": "MovieTickets",
-      "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj",
+      "projectPath": "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj",
       "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
-      "outputPath": "E:\\projectsVs\\Course-project\\MovieTickets\\obj\\",
+      "outputPath": "E:\\projectsVs\\course-project\\MovieTickets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3373,11 +3373,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
-              "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
+            "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
+              "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
             },
-            "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
-              "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
+            "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+              "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
             }
           }
         }
