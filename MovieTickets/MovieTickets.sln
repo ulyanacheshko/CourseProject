@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets", "MovieTickets.csproj", "{F99BC264-B06F-40D3-AB8D-9984AA299822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets", "MovieTickets.csproj", "{F99BC264-B06F-40D3-AB8D-9984AA299822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Entities", "..\MovieTickets.Entities\MovieTickets.Entities.csproj", "{089DE8FF-3A80-421D-985A-EB65A1CD0825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.Entities", "..\MovieTickets.Entities\MovieTickets.Entities.csproj", "{089DE8FF-3A80-421D-985A-EB65A1CD0825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.DataAccess", "..\MovieTickets.DataAccess\MovieTickets.DataAccess.csproj", "{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.DataAccess", "..\MovieTickets.DataAccess\MovieTickets.DataAccess.csproj", "{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Services", "..\MovieTickets.Services\MovieTickets.Services.csproj", "{6CA5C997-37B5-4A21-AC76-159F7E053997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Services.Contracts", "..\MovieTickets.Services.Contracts\MovieTickets.Services.Contracts.csproj", "{916D4E31-7D0C-4BBD-8A5D-CF728126E212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.OrderDTO", "..\MovieTickets.OrderDto\MovieTickets.OrderDTO.csproj", "{F91A55E1-C9A3-4256-B509-296EB9002BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA5C997-37B5-4A21-AC76-159F7E053997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA5C997-37B5-4A21-AC76-159F7E053997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA5C997-37B5-4A21-AC76-159F7E053997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA5C997-37B5-4A21-AC76-159F7E053997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916D4E31-7D0C-4BBD-8A5D-CF728126E212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916D4E31-7D0C-4BBD-8A5D-CF728126E212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916D4E31-7D0C-4BBD-8A5D-CF728126E212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916D4E31-7D0C-4BBD-8A5D-CF728126E212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

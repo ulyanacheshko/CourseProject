@@ -1,0 +1,17 @@
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.csproj.AssemblyReference.cache
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.AssemblyInfoInputs.cache
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.AssemblyInfo.cs
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.csproj.CoreCompileInputs.cache
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.Services.Contracts.deps.json
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.Services.Contracts.dll
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.Services.Contracts.pdb
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.Entities.dll
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.OrderDTO.dll
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.OrderDTO.pdb
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\bin\Debug\net7.0\MovieTickets.Entities.pdb
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.csproj.CopyComplete
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.dll
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\refint\MovieTickets.Services.Contracts.dll
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\MovieTickets.Services.Contracts.pdb
+E:\projectsVs\course-project\MovieTickets.Services.Contracts\obj\Debug\net7.0\ref\MovieTickets.Services.Contracts.dll

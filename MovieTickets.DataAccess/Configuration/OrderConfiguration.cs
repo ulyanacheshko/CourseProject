@@ -8,8 +8,9 @@ namespace MovieTickets.DataAccess.Configuration
     {
         public void Configure(EntityTypeBuilder<Order> builder)
         {
-            builder.ToTable("Orders", "dbo").HasKey(x => x.OrderId);
+            builder.ToTable("Orders", "dbo").HasKey(x => x.Id);
             builder.HasMany(_ => _.Tickets).WithOne(_ => _.Order).HasForeignKey(_ => _.OrderId);
+            builder.HasOne(_ => _.User).WithMany(_ => _.Orders).HasForeignKey(_ => _.UserId);
         }
     }
 

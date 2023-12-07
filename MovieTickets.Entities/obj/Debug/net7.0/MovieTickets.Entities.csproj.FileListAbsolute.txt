@@ -20,3 +20,4 @@ E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets
 E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\refint\MovieTickets.Entities.dll
 E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.pdb
 E:\projectsVs\Course-project\MovieTickets.Entities\obj\Debug\net7.0\ref\MovieTickets.Entities.dll
+E:\projectsVs\course-project\MovieTickets.Entities\obj\Debug\net7.0\MovieTickets.Entities.csproj.AssemblyReference.cache

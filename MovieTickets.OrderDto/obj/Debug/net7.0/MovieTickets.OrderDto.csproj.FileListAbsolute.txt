@@ -1,0 +1,15 @@
+E:\projectsVs\course-project\MovieTickets.OrderDto\bin\Debug\net7.0\MovieTickets.OrderDto.deps.json
+E:\projectsVs\course-project\MovieTickets.OrderDto\bin\Debug\net7.0\MovieTickets.OrderDto.dll
+E:\projectsVs\course-project\MovieTickets.OrderDto\bin\Debug\net7.0\MovieTickets.OrderDto.pdb
+E:\projectsVs\course-project\MovieTickets.OrderDto\bin\Debug\net7.0\MovieTickets.Entities.dll
+E:\projectsVs\course-project\MovieTickets.OrderDto\bin\Debug\net7.0\MovieTickets.Entities.pdb
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.csproj.AssemblyReference.cache
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.AssemblyInfoInputs.cache
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.AssemblyInfo.cs
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.csproj.CoreCompileInputs.cache
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.csproj.CopyComplete
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.dll
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\refint\MovieTickets.OrderDto.dll
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\MovieTickets.OrderDto.pdb
+E:\projectsVs\course-project\MovieTickets.OrderDto\obj\Debug\net7.0\ref\MovieTickets.OrderDto.dll
