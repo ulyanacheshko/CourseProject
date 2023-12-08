@@ -14,7 +14,7 @@ namespace OrderController.Controllers
             _orderService = orderService;
         }
 
-        [HttpGet("{Id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<OrderDto>> GetById(int id)
         {
             return await _orderService.GetById(id);

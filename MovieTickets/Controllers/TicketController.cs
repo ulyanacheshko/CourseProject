@@ -15,7 +15,7 @@ namespace TicketController.Controllers
             _ticketService = ticketService;
         }
 
-        [HttpGet("{Id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<TicketDto>> GetById(int id)
         {
             return await _ticketService.GetById(id);

@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.Entities", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.DataAccess", "..\MovieTickets.DataAccess\MovieTickets.DataAccess.csproj", "{6F1B95A8-E969-4AE2-AC6D-EA5CBBBA1B44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Services", "..\MovieTickets.Services\MovieTickets.Services.csproj", "{6CA5C997-37B5-4A21-AC76-159F7E053997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.Services", "..\MovieTickets.Services\MovieTickets.Services.csproj", "{6CA5C997-37B5-4A21-AC76-159F7E053997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Services.Contracts", "..\MovieTickets.Services.Contracts\MovieTickets.Services.Contracts.csproj", "{916D4E31-7D0C-4BBD-8A5D-CF728126E212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.Services.Contracts", "..\MovieTickets.Services.Contracts\MovieTickets.Services.Contracts.csproj", "{916D4E31-7D0C-4BBD-8A5D-CF728126E212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.OrderDTO", "..\MovieTickets.OrderDto\MovieTickets.OrderDTO.csproj", "{F91A55E1-C9A3-4256-B509-296EB9002BF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTickets.OrderDTO", "..\MovieTickets.OrderDto\MovieTickets.OrderDTO.csproj", "{F91A55E1-C9A3-4256-B509-296EB9002BF8}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VuejsAppMovieTickets", "..\VuejsAppMovieTickets\VuejsAppMovieTickets.njsproj", "{017CA5A2-AE5F-4BE9-9DBA-56F4D509B7C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F91A55E1-C9A3-4256-B509-296EB9002BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017CA5A2-AE5F-4BE9-9DBA-56F4D509B7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017CA5A2-AE5F-4BE9-9DBA-56F4D509B7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017CA5A2-AE5F-4BE9-9DBA-56F4D509B7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017CA5A2-AE5F-4BE9-9DBA-56F4D509B7C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

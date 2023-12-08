@@ -167,3 +167,4 @@ E:\projectsVs\course-project\MovieTickets\obj\Debug\net7.0\MovieTickets.MvcAppli
 E:\projectsVs\course-project\MovieTickets\bin\Debug\net7.0\AutoMapper.dll
 E:\projectsVs\course-project\MovieTickets\bin\Debug\net7.0\AutoMapper.Collection.dll
 E:\projectsVs\course-project\MovieTickets\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projectsVs\course-project\MovieTickets\bin\Debug\net7.0\package-lock.json
