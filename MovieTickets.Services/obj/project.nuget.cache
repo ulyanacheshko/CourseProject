@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KjL7cYvO+/yow9fNXeuqOdi1f7tFJWWzSNEs+nLano+sa4/75SuBhSv3Z27CFNp9nnUpAk+RDO1ob+b0UlpbAA==",
+  "dgSpecHash": "LL8l22j6cp4v6ravXyGhwpEs7h0H8WnbxoNdRd7HsGq/U5RvYL1sUMbD1duroGYrV0nF6OvEoUlqUGCutXeahw==",
   "success": true,
-  "projectFilePath": "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
+  "projectFilePath": "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ulia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ulia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

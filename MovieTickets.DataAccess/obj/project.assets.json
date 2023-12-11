@@ -2943,9 +2943,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
+      "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
       "projectName": "MovieTickets.DataAccess",
-      "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
+      "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
       "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -2968,8 +2968,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
-              "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
+            "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+              "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
             }
           }
         }

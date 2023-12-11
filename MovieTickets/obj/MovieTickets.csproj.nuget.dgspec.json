@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj": {}
+    "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj": {}
   },
   "projects": {
-    "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
         "projectName": "MovieTickets.DataAccess",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
               }
             }
           }
@@ -87,12 +87,12 @@
         }
       }
     },
-    "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
         "projectName": "MovieTickets.Entities",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -152,12 +152,12 @@
         }
       }
     },
-    "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj",
         "projectName": "MovieTickets.OrderDTO",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\obj\\",
         "projectStyle": "PackageReference",
@@ -180,8 +180,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
               }
             }
           }
@@ -221,12 +221,12 @@
         }
       }
     },
-    "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj",
         "projectName": "MovieTickets.Services.Contracts",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\obj\\",
         "projectStyle": "PackageReference",
@@ -249,8 +249,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.OrderDto\\MovieTickets.OrderDTO.csproj"
               }
             }
           }
@@ -290,12 +290,12 @@
         }
       }
     },
-    "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
         "projectName": "MovieTickets.Services",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets.Services\\obj\\",
         "projectStyle": "PackageReference",
@@ -318,11 +318,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
               },
-              "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj"
               }
             }
           }
@@ -362,12 +362,12 @@
         }
       }
     },
-    "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj": {
+    "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj",
+        "projectUniqueName": "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj",
         "projectName": "MovieTickets",
-        "projectPath": "E:\\projectsVs\\course-project\\MovieTickets\\MovieTickets.csproj",
+        "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets\\MovieTickets.csproj",
         "packagesPath": "C:\\Users\\Ulia\\.nuget\\packages\\",
         "outputPath": "E:\\projectsVs\\course-project\\MovieTickets\\obj\\",
         "projectStyle": "PackageReference",
@@ -390,17 +390,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.DataAccess\\MovieTickets.DataAccess.csproj"
               },
-              "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj"
               },
-              "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Services.Contracts\\MovieTickets.Services.Contracts.csproj"
               },
-              "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj": {
-                "projectPath": "E:\\projectsVs\\course-project\\MovieTickets.Services\\MovieTickets.Services.csproj"
+              "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj": {
+                "projectPath": "E:\\projectsVs\\Course-project\\MovieTickets.Services\\MovieTickets.Services.csproj"
               }
             }
           }

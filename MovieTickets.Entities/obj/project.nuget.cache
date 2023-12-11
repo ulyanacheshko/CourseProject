@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uuujQQ7GhJoDhygqoQhIE/A31HN5QWsreMfIYv+c6fRxeOUZz+WQSezeAd5SaLwZNpDM5Lf/TgIioC8FfMj2Pg==",
+  "dgSpecHash": "W1iZGi6uYo03MsEvrgvSFXjCiVhKDJ0i4txmWyaXJqVcYzcYC4YILxiqFE/hLVQK7HSzEyI6hpW+9xPlT33e9w==",
   "success": true,
-  "projectFilePath": "E:\\projectsVs\\course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
+  "projectFilePath": "E:\\projectsVs\\Course-project\\MovieTickets.Entities\\MovieTickets.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ulia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ulia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
